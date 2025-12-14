@@ -1,6 +1,6 @@
 <?php
 require 'header.php';
-require 'functions.php';
+require 'function.php';
 
 $message = '';
 
